@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.ust
+{
+    width: 100%;
+    background-color:lightslategrey;
+    height: 100px;
+}
+.footer
+{
+    background-color: rgb(87, 14, 40);
+    width: 100%;
+    font-size: large;
+    font-style: italic;
+    padding: 15px;
+    height :270px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin: 15px;
+}
+.home{
+    width: auto;
+    height: auto;
+
+}
+.textwidget{
+ float: right;
+ text-align: left;
+ width: 350px;
+margin-right: 225px;
+margin-top: 20px;
+  
+}
+.left{
+    float: left;
+width: 285px;
+ 
+}
+.siteharitasi {
+    
+   margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    padding: 5px;
+    float: left;
+    margin-right: 5px;
+    margin-left: 115px;
+  
+}
+.siteharitasi a {
+    text-decoration: none;
+    color: white;
+}
+.siteharitasi ul {
+    list-style-type: none;
+}
+.siteharitasi a:hover {
+    color: rgb(23, 75, 75);
+}
+.orta{
+    margin-top: 5px;
+    background-color: rgb(120, 163, 148);
+    height: 800px;
+ 
+}
+ 
+.orta-sol{
+    float: left;
+    width: 50%;
+  
+}
+ 
+ 
+.orta-sag{
+    float: left;
+    margin: 15px;
+    width: 50%;
+}
+input[type=text], select {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .div2 {
+    border-radius: 5px;
+  
+    padding: 20px;
+   
+    float: left;
+  }
+  textarea {
+    width: 300px;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 600px;
+    float: left;
+    margin-left: 25px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  th, td:hover{
+    color: #45a049;
+    background-color: blanchedalmond;
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  h3{
+   color:rgb(18, 54, 55); 
+   text-align:center;
+
+  }
